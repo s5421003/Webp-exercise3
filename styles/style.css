@@ -1,6 +1,5 @@
 html {
     font-size: 10px;
-    font-family: 'Open Sans', sans-serif;
   }
   
   p {
@@ -9,7 +8,7 @@ html {
     letter-spacing: 1px;
   }
   
-  dl {
+  dd {
     font-size: 16px;
     text-align: center;
   }
